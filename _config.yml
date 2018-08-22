@@ -214,11 +214,12 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
+  博客: https://iseex.github.io
+  简书: https://www.jianshu.com/u/5902bc489072
   GitHub: https://github.com/iseex
   #Scholar: https://www.researchgate.net/profile/Hongsheng_Xu2
   Projects: https://iseex.github.io/research
   #Twitter: https://twitter.com/iseexuhs
-  简书: https://www.jianshu.com/u/5902bc489072
   #Weibo: https://weibo.com/iseexuhs
 
 
@@ -237,6 +238,7 @@ social_icons:
   Scholar: graduation-cap
   Projects: suitcase
   简书: heartbeat
+  博客: pen-square
   Weibo: weibo
 
 
