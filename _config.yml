@@ -342,7 +342,7 @@ wechat_subscriber:
 
 # Declare license on posts
 post_copyright:
-  enable: false
+  enable: true
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
@@ -630,13 +630,13 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest 动态背景
-canvas_nest: true
+canvas_nest: false
 
 # three_waves
 three_waves: false
 
 # canvas_lines
-canvas_lines: true
+canvas_lines: false
 
 # canvas_sphere
 canvas_sphere: false
