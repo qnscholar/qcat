@@ -423,12 +423,11 @@ han: false
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
 # 注意：安装livere必须关闭gitalk，不然会配置出错。
-#livere_uid: MTAyMC8zOTA1OS8xNTU4Ng==
-
+livere_uid: MTAyMC8zOTE0NS8xNTY3Mg==
 # Support for gitalk comments system.
 # 注意：安装gitalk必须关闭livere，不然会配置出错。
 gitalk:
-  enable: true
+  enable: false
   clientID: 5a7d7e819ac7d20b314f # 54730ddf7b9420460c03
   clientSecret: 92e58c861e513c11c85c93583f75d72b0f47848d # c05684701b25ff1c19ea0c01ce4d80c125e0707d
   repo: qcat # colingpt.github.io
