@@ -515,16 +515,16 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: hygIRQzuEIWw8klomUAG3S1u-gzGzoHsz #<app_id>
-  app_key: pUACXn9ixKKo1llA1ULYPXt2 #<app_key>
+  enable: true
+  app_id: z05XsAMUi9XJJIYSu1xuramp-gzGzoHsz #<app_id>
+  app_key: Vq47PGqAhS3AELM8s5YOBTY8 #<app_key>
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
 # 直接使能就可以使用，不需要申请Api
 busuanzi_count:
   # count values only if the other configs are false
-  enable: false
+  enable: true
   # custom uv span for the whole site
   site_uv: true
   site_uv_header: <i class="fa fa-user"></i>
@@ -542,8 +542,8 @@ busuanzi_count:
 
 
 # Online contact 
-daovoice: false
-daovoice_app_id: 80b13f12 #这里填你的刚才获得的 app_i
+daovoice: true
+daovoice_app_id: eb9fb112 #这里填你获得的 app_i
 
 # Tencent analytics ID
 # tencent_analytics:
