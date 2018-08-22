@@ -544,7 +544,7 @@ busuanzi_count:
 
 
 # Online contact 
-daovoice: true
+daovoice: false
 daovoice_app_id: eb9fb112 #这里填你获得的 app_i
 
 # Tencent analytics ID
@@ -638,7 +638,7 @@ canvas_nest: false
 three_waves: false
 
 # canvas_lines
-canvas_lines: false
+canvas_lines: true
 
 # canvas_sphere
 canvas_sphere: false
