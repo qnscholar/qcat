@@ -3,7 +3,7 @@ title: 搞事！猫Q学术派官方网站正式上线
 date: 2018-08-23 14-00-00
 ---
 
-emmm，暑假里经过一段时间的闭关折腾（搞skr人），终于倒腾出了猫Q学术派的官方网站（地址[https://iseex.github.io/qcat](https://iseex.github.io/qcat)），😊直接上图。
+emmm，暑假里经过一段时间的闭关折腾（搞skr人），终于倒腾出了猫Q学术派的官方网站（地址：[https://iseex.github.io/qcat](https://iseex.github.io/qcat)），😊直接上图。
 
 （先空着）
 
@@ -73,4 +73,3 @@ emmm，暑假里经过一段时间的闭关折腾（搞skr人），终于倒腾�
 2. 进入猫Q学术派公众号菜单栏**线上小站**，长按二维码访问。
 
 >  这个线上的小窝还满意吗？希望大家喜欢～（瑟瑟发抖）😯
-
