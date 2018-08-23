@@ -6,7 +6,7 @@ categories:
 tags:
 - Windows
 - Mac
-typora-root-url: ../../iseex.github.io
+typora-root-url: ../../../GitHub
 ---
 
 在学习和科研过程中，经常需要输入数学公式。输入数学公式的常用方法有三种：
@@ -36,46 +36,46 @@ typora-root-url: ../../iseex.github.io
 
 1. 打开下载的文件，得到如下窗口，包含dmg文件和用于破解的MTkey。点击如下所示的dmg文件。
 
-   ![](/assets/images/posts/Software/mathtype01.png)
+   ![](/qcat/assets/images/posts/Software/mathtype01.png)
 
 2. 出现下图，点击MathType 6.7b installer.mpkg进行安装。
 
 
-   ![](/assets/images/posts/Software/mathtype02.png)
+   ![](/qcat/assets/images/posts/Software/mathtype02.png)
 
 3. 因为`Mac`系统限制，可能会出现如下窗口，解决办法是：打开设置->安全性和隐私，在下方点击“仍要打开”，如下。
 
 
-   ![](/assets/images/posts/Software/mathtype03.jpeg)
+   ![](/qcat/assets/images/posts/Software/mathtype03.jpeg)
 
 
-   ![](/assets/images/posts/Software/mathtype04.jpeg)
+   ![](/qcat/assets/images/posts/Software/mathtype04.jpeg)
 
 4. 出现如下安装界面，一步一步安装即可。
 
-   ![](/assets/images/posts/Software/mathtype05.jpeg)
+   ![](/qcat/assets/images/posts/Software/mathtype05.jpeg)
 
 5. 安装完成后，启动MathType。因为软件还没有破解，则会自动弹出一下窗口。此时点击Unlock with Product Key。
 
-   ![](/assets/images/posts/Software/mathtype06.png)
+   ![](/qcat/assets/images/posts/Software/mathtype06.png)
 
 6. 弹出下面窗口。
 
 
-   ![](/assets/images/posts/Software/mathtype07.jpeg)
+   ![](/qcat/assets/images/posts/Software/mathtype07.jpeg)
 
 7. 打开第一步的MTkey，得到下图，点击make，生成序列号并复制。
 
-   ![](/assets/images/posts/Software/mathtype08.png)
+   ![](/qcat/assets/images/posts/Software/mathtype08.png)
 
 8. 填好第6步窗口中的内容，并粘贴上一步得到的序列号，点击OK，即可完成破解，如下所示。
 
 
-   ![](/assets/images/posts/Software/mathtype09.jpeg)
+   ![](/qcat/assets/images/posts/Software/mathtype09.jpeg)
 
 9. 破解后MathType的完整界面如下，可以放心使用。
 
-   ![](/assets/images/posts/Software/mathtype10.jpeg)
+   ![](/qcat/assets/images/posts/Software/mathtype10.jpeg)
 
 > 今天的内容就介绍到这里，更多实用信息可移步微信公众号“猫Q学术派”。
 
