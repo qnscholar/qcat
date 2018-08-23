@@ -1,7 +1,6 @@
 ---
 title: 搞事！猫Q学术派官方网站正式上线
 date: 2018-08-23 20:22:00
-typora-root-url: ../../qcat
 ---
 
 emmm，暑假里经过一段时间的闭关折腾（搞skr人），终于倒腾出了猫Q学术派的官方网站（地址：[https://iseex.github.io/qcat](https://iseex.github.io/qcat)），😊直接上图。
