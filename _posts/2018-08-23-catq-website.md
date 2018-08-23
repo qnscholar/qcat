@@ -6,15 +6,15 @@ typora-root-url: ../../qcat
 
 emmm，暑假里经过一段时间的闭关折腾（搞skr人），终于倒腾出了猫Q学术派的官方网站（地址：[https://iseex.github.io/qcat](https://iseex.github.io/qcat)），😊直接上图。
 
-![](https://iseex.github.io/qcat/assets/images/posts/GitHub-Pages/catq-site.jpg)
+![](/assets/images/posts/GitHub-Pages/catq-site.jpg)
 
 怎么，不够看，那就来张动图。
 
-![](https://iseex.github.io/qcat/assets/images/posts/GitHub-Pages/catq-gif.gif)
+![](/assets/images/posts/GitHub-Pages/catq-gif.gif)
 
 什么，怎么都是在电脑端看的…好吧，再上个自动适配移动端的猫Q学术饿派网站截图（点击公众号菜单栏**线上小站**也可以访问）。
 
-![](https://iseex.github.io/qcat/assets/images/posts/GitHub-Pages/site-mobile.jpg)
+![](/assets/images/posts/GitHub-Pages/site-mobile.jpg)
 
 😯怎么样，还看得过去吧！emmm，以后这个网站就是猫Q的粉丝们在PC端的小窝了，猫Q公众号就是在移动端的小窝了～
 
