@@ -3,7 +3,7 @@ title: 搞事！猫Q学术派官方网站正式上线
 date: 2018-08-23 14-00-00
 ---
 
-emmm，暑假里经过一段时间的闭关折腾（搞skr人），终于倒腾出了猫Q学术派的官方网站（地址[https://iseex.github.io/qcat](https://iseex.github.io/atom.xml)），😊直接上图。
+emmm，暑假里经过一段时间的闭关折腾（搞skr人），终于倒腾出了猫Q学术派的官方网站（地址[https://iseex.github.io/qcat](https://iseex.github.io/qcat)），😊直接上图。
 
 （先空着）
 
@@ -69,7 +69,8 @@ emmm，暑假里经过一段时间的闭关折腾（搞skr人），终于倒腾�
 
 对网站的介绍就到这里，感兴趣的快去访问吧，方式：
 
-1. 访问链接[https://iseex.github.io](https://iseex.github.io)
+1. 访问链接[https://iseex.github.io/qcat](https://iseex.github.io/qcat)
 2. 进入猫Q学术派公众号菜单栏**线上小站**，长按二维码访问。
 
 >  最后，希望大家喜欢～（瑟瑟发抖）😯
+
